@@ -8,7 +8,7 @@ tags:
 - CSS
 - Javascript
 - Chrome Manifest v3
-demoUrl: https://chromewebstore.google.com/detail/session-switcher/oianbflnhmnfcpahokfmgchdpknccmai
+demoUrl: https://sessionswitcher.emeraldzhu.com/
 repoUrl: https://github.com/EmeraldZhu/SessionSwitcher
 ---
 
