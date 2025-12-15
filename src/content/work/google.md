@@ -1,8 +1,8 @@
 ---
 company: "xAI"
 role: "AI Tutor"
-dateStart: "01/08/2025"
-dateEnd: "30/09/2025"
+dateStart: "08/01/2025"
+dateEnd: "09/30/2025"
 ---
 
 Was an AI Tutor at xAI where I helped train Grok before the purge.

@@ -1,7 +1,7 @@
 ---
 company: "Emergency Resq"
 role: "Founder"
-dateStart: "01/04/2024"
+dateStart: "04/01/2024"
 dateEnd: "01/01/2025"
 ---
 
