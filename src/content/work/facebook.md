@@ -1,10 +1,11 @@
 ---
-company: "Facebook"
-role: "Intern"
-dateStart: "07/01/2019"
-dateEnd: "12/31/2019"
+company: "Emergency Resq"
+role: "Founder"
+dateStart: "01/04/2024"
+dateEnd: "01/01/2025"
 ---
 
-Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit.
+Co-founder of Emergency Resq, a roadside assistance startup backed by ALX with the goal connecting drivers in need with reliable service providers.
 
-- Sit amet consectetur adipisicing elit.
+- Think Uber but for emergencies.
+- Latest "failed" startup.

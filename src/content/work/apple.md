@@ -1,11 +1,12 @@
 ---
-company: "Apple"
-role: "Software Engineer"
-dateStart: "01/01/2020"
-dateEnd: "11/27/2022"
+company: "Emergency Resq, ALX Ventures Accelerator Cohort 1"
+role: "Founder"
+dateStart: "01/08/2024"
+dateEnd: "31/12/2024"
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+Got selected for the inaugural ALX Ventures Accelerator, a highly selective three-month program supporting African startups with investor readiness, mentorship, and in-kind resources including legal, product, and marketing support.
 
-- Sit amet consectetur adipisicing elit. Iure illo neque tempora.
-- Quibusdam, debitis voluptatum, lorem ipsum
+- Participated in expert-led workshops.
+- Developed our business strategy.
+- Prepared for investment opportunities while connecting with a vibrant pan-African entrepreneurial community.
