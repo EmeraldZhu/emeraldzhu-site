@@ -77,5 +77,17 @@ export const SOCIALS: Socials = [
     TEXT: "emeraldzhu",
     HREF: "https://x.com/EmeraldZhu",
   },
+  {
+    NAME: "Instagram",
+    ICON: "instagram",
+    TEXT: "emeraldzhu",
+    HREF: "https://www.instagram.com/emeraldzhu/",
+  },
+  {
+    NAME: "YouTube",
+    ICON: "youtube",
+    TEXT: "emeraldzhu",
+    HREF: "https://www.youtube.com/@emeraldzhu",
+  }
 ]
 
