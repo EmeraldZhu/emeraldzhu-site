@@ -1,16 +1,14 @@
 ---
-title: "Project One"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 18 2022"
+title: "Session Switcher"
+summary: "Chrome extension to easily between different accounts on the same site"
+date: "May 8 2025"
 draft: false
 tags:
-- Astro
+- HTML
+- CSS
 - Javascript
-- Typescript
-- Tailwind
-- SolidJs
-demoUrl: https://astro-sphere-demo.vercel.app
-repoUrl: https://github.com/markhorn-dev/astro-sphere
+demoUrl: https://chromewebstore.google.com/detail/session-switcher/oianbflnhmnfcpahokfmgchdpknccmai
+repoUrl: https://github.com/EmeraldZhu/SessionSwitcher
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Session Switcher allows you to save, label, and swap between different accounts on any website with a single click. Whether you are managing multiple ChatGPT accounts, switching between social media clients, or separating Work vs. Personal profiles, do it all without ever logging out.
