@@ -9,6 +9,7 @@ tags:
 - Typescript
 - Tailwind
 - OpenAI GPT-3.5-turbo API
+demoUrl: https://chimerical-flan-96b8c7.netlify.app/
 ---
 
 This is an AI-powered job application assistant that creates personalized resumes and cover letters tailored to specific job postings. CareerCraft analyzes job descriptions and generates professional documents that highlight your most relevant qualifications.
