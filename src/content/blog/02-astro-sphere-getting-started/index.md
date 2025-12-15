@@ -1,7 +1,7 @@
 ---
 title: "I Made My Own Netflix but Better"
 summary: "Because I wanted to improve my home local streaming setup."
-date: "Dec 15 2025"
+date: "Dec 08 2025"
 draft: false
 tags:
 - Tutorial

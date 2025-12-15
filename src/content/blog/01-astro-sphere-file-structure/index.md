@@ -1,7 +1,7 @@
 ---
 title: "My First Gaming PC Build Experience"
 summary: "How I built my very first gaming PC in a 3rd World Country."
-date: "Dec 15 2025"
+date: "Dec 01 2025"
 draft: false
 tags:
 - Gaming PC
