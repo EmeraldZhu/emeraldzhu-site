@@ -1,90 +1,38 @@
 ---
-title: "Astro Sphere: Getting Started"
-summary: "You've downloaded and installed the project. Let's hit the ground running."
-date: "Mar 16 2024"
+title: "I Made My Own Netflix but Better"
+summary: "Because I wanted to improve my home local streaming setup."
+date: "Dec 15 2025"
 draft: false
 tags:
 - Tutorial
-- Astro
-- Astro Sphere
+- Homelabbing
+- Local Streaming
+- Jellyfin
+- ElegantFin
+- Tailscale
 ---
 
-Astro Sphere is designed to be configurable. This article will cover the basics on
-configuring the site and make it personal.
+I got tired of using VLC to watch my (legally obtained) shows and when I took a break and couldn't remember where I left off, had to rack my brains and waste precious time rewatching past episodes before remembering, damn, I had already watched this.
 
-### First let's change the url
+Then I started thinking to myself, "surely there's gotta be a better way to do this"...
 
-```js
-//astro.config.mjs
+And it doesn't have to look like it came from the '90s...
 
-export default defineConfig({
-  site: "https://astro-sphere.vercel.app", // your domain here
-  integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
-})
-```
+[Fine. I'll do it myself]
 
-### Next, Let's configure the Site
+And so...
 
-```js
-// src/consts.ts
+Using Jellyfin as my server, I transformed my local movies and shows (that I totally obtained legitimately) into a Netflix-like experience, complete with the Netflix features you've all come to love, minus the subscription. And yes, it's completely free. And you can even share your "Netflix" setup with others.
 
-export const SITE: Site = {
-  TITLE: "Astro Sphere",
-  DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
-  AUTHOR: "Mark Horn",
-}
-```
+Might (will) make a video on YouTube too (shameless self-promo: [Emerald Zhu](https://www.youtube.com/@emeraldzhu))
 
-| Field       | Type   | Description                                                            |
-| :---------- | :----- | :--------------------------------------------------------------------- |
-| TITLE       | String | The title of the website. Displayed in header and footer. Used in SEO. |
-| DESCRIPTION | String | The description of the index page of the website. Used in SEO.         |
-| AUTHOR      | String | Your name.                                                             |
+### Features
 
-### Change the branding
-
-The browser icon is located in `/public/favicon.svg`
-
-The header and footer branding icon is located in `/public/brand.svg` as a sprite with id="brand"
-
-### The rest of the consts file
-
-Each page has a metadata entry that is useful for SEO.
-
-```js
-export const WORK: Page = {
-  TITLE: "Work",
-  DESCRIPTION: "Places I have worked.",
-}
-```
-
-The links that are displayed in the header and drawer
-
-```js
-export const LINKS: Links = [
-  { HREF: "/", TEXT: "Home" },
-  { HREF: "/work", TEXT: "Work" },
-  { HREF: "/blog", TEXT: "Blog" },
-  { HREF: "/projects", TEXT: "Projects" },
-]
-```
-
-The social media links
-
-```js
-export const SOCIALS: Socials = [
-  { 
-    NAME: "Github",
-    ICON: "github",
-    TEXT: "markhorn-dev",
-    HREF: "https://github.com/markhorn-dev/astro-sphere"
-  },
-]
-```
-
-| Field | Type | Required | Description |
-| :---- | :--- | :------- | :---------- |
-| NAME  | string | yes | Accessible name |
-| ICON  | string | yes | Refers to the symbol id in `public/social.svg` |
-| TEXT  | string | yes | Shorthand profile name |
-| HREF  | string | yes | The link to the social media profile |
+- Video timeline scrubbing (I'll spare you the Google search - this is basically hovering over a video's progress bar and you can see a preview of a scene at a specific timestamp)
+- Movie/Show theme songs
+- Auto categorization
+- Cast preview
+- Auto subtitle downloads
+- Beautiful UI
+- Movie/Show backdrops
+- Continue watching (which remembers where you left off)
