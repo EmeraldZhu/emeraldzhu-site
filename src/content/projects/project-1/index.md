@@ -1,6 +1,6 @@
 ---
 title: "Session Switcher"
-summary: "Chrome extension to easily between different accounts on the same site"
+summary: "Chrome extension to easily switch between different accounts on the same site"
 date: "May 8 2025"
 draft: false
 tags:
