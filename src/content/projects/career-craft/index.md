@@ -8,7 +8,7 @@ tags:
 - Lucide React
 - Typescript
 - Tailwind
-- OpenAI GPT-3.5-turbo API
+- OpenAI API
 demoUrl: https://chimerical-flan-96b8c7.netlify.app/
 ---
 

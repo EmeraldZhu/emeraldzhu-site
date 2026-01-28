@@ -9,14 +9,16 @@ tags:
 - ChatGPT
 - Indie Hacking
 - AI account switcher
-demoUrl: https://sessionswitcher.emeraldzhu.com/
-repoUrl: https://github.com/EmeraldZhu/SessionSwitcher
+demoUrl: https://chromewebstore.google.com/detail/session-switcher/oianbflnhmnfcpahokfmgchdpknccmai
+repoUrl: https://sessionswitcher.emeraldzhu.com/
 ---
 
 ### New scope
 
-Decided to only narrow down to AI chatbot sites. Previous scope was too wide and consequentially too many problems. 
+Decided to only narrow down to AI chatbot sites. Previous scope was too wide and consequentially too many problems.
+
 *sigh* _Again..._
+
 Session Switcher allows you to save, label, and swap between different accounts on AI chatbot sites with a single click - but with more QoL features.
 
 ### Old scope
