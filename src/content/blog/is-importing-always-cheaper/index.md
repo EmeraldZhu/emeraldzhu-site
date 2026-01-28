@@ -6,7 +6,7 @@ draft: false
 tags:
 - Importing
 - Resellers
-- 3rd world country
+- 3rd World Country
 - Real-life experience
 - Case study
 ---
