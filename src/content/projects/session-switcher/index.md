@@ -11,7 +11,7 @@ tags:
 - AI account switcher
 
 demoUrl: https://sessionswitcher.emeraldzhu.com/
-repoUrl: https://github.com/EmeraldZhu/SessionSwitcher
+repoUrl: https://github.com/EmeraldZhu/session-switcher-site
 ---
 
 ### New scope
