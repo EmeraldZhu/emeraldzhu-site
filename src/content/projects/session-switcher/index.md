@@ -9,20 +9,10 @@ tags:
 - ChatGPT
 - Indie Hacking
 - AI account switcher
-- Archived
+
 demoUrl: https://sessionswitcher.emeraldzhu.com/
 repoUrl: https://github.com/EmeraldZhu/SessionSwitcher
 ---
-### TL;DR
-Platform auth changes made this unviable
-
-
-### New new scope
-
-Decided to archive the project. Read the `POSTMORTEM.MD` on `v2 branch` and `README.MD` on both `main` and `v2` branches for a full technical breakdown of the why. 
-
-I tried, learned, moved on.
-
 
 ### New scope
 
