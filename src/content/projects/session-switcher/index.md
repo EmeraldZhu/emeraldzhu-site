@@ -1,7 +1,7 @@
 ---
 title: "Session Switcher"
 summary: "Chrome extension to easily switch between different accounts on AI sites."
-date: "May 8 2025"
+date: "Feb 21 2026"
 draft: false
 tags:
 - Javascript
@@ -9,10 +9,19 @@ tags:
 - ChatGPT
 - Indie Hacking
 - AI account switcher
+- SaaS
 
 demoUrl: https://sessionswitcher.emeraldzhu.com/
 repoUrl: https://github.com/EmeraldZhu/session-switcher-site
 ---
+
+### Update
+
+The new, updated version is live on the Chrome Web Store. 
+
+It also has a free tier with 2 ChatGPT accounts and a paid tier with support for unlimited ChatGPT accounts as well as support for Claude and Perplexity (as well as other future AI sites).
+
+One small problem though, the extension might be broken on ChatGPT. *sigh* Not this again. Might provide a future fix. *Might*
 
 ### New scope
 
