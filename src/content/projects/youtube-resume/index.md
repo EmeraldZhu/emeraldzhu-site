@@ -1,7 +1,7 @@
 ---
 title: "YouTube Resume"
 summary: "Chrome extension to easily switch between different accounts on AI sites."
-date: "Feb 21 2026"
+date: "Mar 13 2026"
 draft: false
 tags:
 - Javascript
