@@ -8,6 +8,7 @@ tags:
 - Business
 - AI
 - AI Boom
+- AI Bubble
 
 ---
 
