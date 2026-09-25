@@ -48,6 +48,8 @@ Anywho, here’s a summary of the latest changes till date…
 - You can now remove completed videos in one go from the saved videos panel
 - Currently, the extension respects timestamp links *(opening a video with a specific starting time **(?t=)** is respected over your saved position)* but I personally hate it, since YouTube's isn't always reliable, so I'm planning on fixing it, but will add a toggle for it in the settings so you can turn it on/off
 
+Anyway, just like before, even if you never touch the saved videos panel, the extension still remains true to its purpose as a behind-the-scenes/background extension. It will always work with no effort from you.
+
 
 
 &nbsp;
