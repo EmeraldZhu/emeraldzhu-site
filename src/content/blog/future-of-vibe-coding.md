@@ -26,7 +26,7 @@ Nowadays there are AI IDEs of all sorts, from Cursor all the way to web based AI
 
 I'm glad you asked. I know you didn't but here you are so... 
 
-Anyway, at the core of any vibe coding tool or even any AI tool for that matter, are things called tokens. To put it simply, these are the words (and/or things, data basically) you give an AI, and AI in turn outputs tokens (again, word and/or things). Say you ask ChatGPT what is your name, your prompt is convereted into tokens, AI processes those tokens and its output is also tokens but converted into the data you want, which in this case would be "Hi, I'm ChatGPT."
+Anyway, at the core of any vibe coding tool or even any AI tool for that matter, are things called tokens. To put it simply, these are the words (and/or things, data basically) you give an AI, and AI in turn outputs tokens (again, word and/or things). Say you ask ChatGPT what is your name, your prompt is converted into tokens, AI processes those tokens and its output is also tokens but converted into the data you want, which in this case would be "Hi, I'm ChatGPT."
 
 Now that you know about tokens, you should know about context windows. Different AI models have different context windows, which is basically the limit on the number of tokens it can handle (both output and input). Ever talked with an AI for long and realize it's getting dumber? This is because the longer your conversation grows, the AI starts to "forget" the initial parts of the conversation intentionally. Say you have a studio room and can only host 20 people. 5 more guests come, 5 initial guests will have to leave. That's basically it. But this is an oversimplification. (There are different tokenization methods and different models handle context windows differently).
 
