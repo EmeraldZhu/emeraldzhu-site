@@ -1,24 +1,20 @@
 ---
-title: "Session Switcher"
-summary: "Chrome extension to easily switch between different accounts on AI sites."
+title: Session Switcher
+summary: Chrome extension to easily switch between different accounts on AI sites.
 date: 2026-02-21
 draft: false
 tags:
-- Javascript
-- Chrome Manifest v3
-- ChatGPT
-- Indie Hacking
-- AI account switcher
-- SaaS
+  - Javascript
+  - Chrome Manifest v3
+  - ChatGPT
+  - Indie Hacking
+  - AI account switcher
+  - SaaS
 links:
-- label: See Demo
-  url: https://sessionswitcher.emeraldzhu.com/
-  icon: globe
-- label: See Repository
-  url: https://github.com/EmeraldZhu/session-switcher-site
-  icon: link
+  - label: See Website
+    url: https://sessionswitcher.emeraldzhu.com/
+    icon: globe
 ---
-
 ### v3 Update
 
 The extension has gone through a couple of changes since its inception. From being a generic session switcher that promised to work on almost every site, to realizing that was far-fetched, to narrowing it down to only AI sites, to making it work reliably on AI sites. Ladies and mentlegen (pun intended), introducing v3.0
@@ -42,7 +38,7 @@ One small problem though, the extension might be broken on ChatGPT. *sigh* Not t
 
 Decided to only narrow down to AI chatbot sites. Previous scope was too wide and consequentially too many problems.
 
-*sigh* _Again..._
+*sigh* *Again...*
 
 Session Switcher allows you to save, label, and swap between different accounts on AI chatbot sites with a single click - but with more QoL features.
 
@@ -55,3 +51,4 @@ Session Switcher allows you to save, label, and swap between different accounts 
 - Even the simplest projects can and will still take your time. So think about the reward before committing to a project. 
 - This is a SaaS but in the world of painkillers vs nice-to-haves, I think you're the better judge of what this is. 
 - Fun fact, most of this project was built using AI with me being the project manager (and it still consumed a lot of time).
+
