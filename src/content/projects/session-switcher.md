@@ -15,9 +15,11 @@ links:
     url: https://sessionswitcher.emeraldzhu.com/
     icon: globe
 ---
-A lot (not really) has changed since the last v3 update. So, rather than boring you with technical details, here's a summary of the latest changes till date. 
+A lot (not really) has changed since the last v3 update. So, rather than boring you with technical details, here's a summary of the latest changes till date...
 
-### **What changed since:**
+![](/images/projects/enjoy.gif)
+
+### **What changed since**
 
 Currently, it's at v5 on [Chrome Web Store](https://chromewebstore.google.com/detail/session-switcher-ai-accou/oianbflnhmnfcpahokfmgchdpknccmaihttps://chromewebstore.google.com/detail/session-switcher-ai-accou/oianbflnhmnfcpahokfmgchdpknccmai) and [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/session-switcher-official/). In no order: 
 
@@ -33,8 +35,6 @@ Currently, it's at v5 on [Chrome Web Store](https://chromewebstore.google.com/de
 - Pro Lifetime dropped from $29.99 to $19.99
 - Pro Monthly dropped from $5/mo to $1.99/mo
 - Did I say the extension now works on Firefox (and/or other Mozilla-based browsers)? Did I also mention because of this, the extension also now works on phone (using the Firefox app..., it can also work on Kiwi Browser on mobile, which is a Chromium-based browser) 
-
-
 
 ### v3 Update
 
