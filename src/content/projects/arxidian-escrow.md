@@ -1,7 +1,7 @@
 ---
 title: "Arxidian - Escrow for Jiji"
 summary: "This is actually a registered business"
-date: "March 11 2026"
+date: 2026-03-11
 draft: false
 tags:
 - Idea

@@ -1,7 +1,7 @@
 ---
 title: "Software is about to be commoditized. Scary!"
 summary: "SaaS as we know it is about to change. Hear me out"
-date: "Mar 13 2026"
+date: 2026-03-13
 draft: false
 tags:
 - SaaS

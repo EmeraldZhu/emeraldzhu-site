@@ -1,7 +1,7 @@
 ---
 title: "Career Craft"
 summary: "Land your dream job with AI-powered job applications"
-date: "Sep 8 2025"
+date: 2025-09-08
 draft: false
 tags:
 - React
@@ -9,7 +9,10 @@ tags:
 - Typescript
 - Tailwind
 - OpenAI API
-demoUrl: https://chimerical-flan-96b8c7.netlify.app/
+links:
+- label: See Demo
+  url: https://chimerical-flan-96b8c7.netlify.app/
+  icon: globe
 ---
 
 This is an AI-powered job application assistant that creates personalized resumes and cover letters tailored to specific job postings. CareerCraft analyzes job descriptions and generates professional documents that highlight your most relevant qualifications.

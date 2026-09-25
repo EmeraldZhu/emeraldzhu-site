@@ -1,7 +1,7 @@
 ---
 title: "Session Switcher"
 summary: "Chrome extension to easily switch between different accounts on AI sites."
-date: "Feb 21 2026"
+date: 2026-02-21
 draft: false
 tags:
 - Javascript
@@ -10,9 +10,13 @@ tags:
 - Indie Hacking
 - AI account switcher
 - SaaS
-
-demoUrl: https://sessionswitcher.emeraldzhu.com/
-repoUrl: https://github.com/EmeraldZhu/session-switcher-site
+links:
+- label: See Demo
+  url: https://sessionswitcher.emeraldzhu.com/
+  icon: globe
+- label: See Repository
+  url: https://github.com/EmeraldZhu/session-switcher-site
+  icon: link
 ---
 
 ### v3 Update

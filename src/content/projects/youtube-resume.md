@@ -1,16 +1,20 @@
 ---
 title: "YouTube Resume"
 summary: "Chrome extension to easily switch between different accounts on AI sites."
-date: "Mar 13 2026"
+date: 2026-03-13
 draft: false
 tags:
 - Javascript
 - Chrome Manifest v3
 - Open-source
 - Chrome Extension
-
-demoUrl: https://youtuberesume.emeraldzhu.com/
-repoUrl: https://github.com/EmeraldZhu/youtube-resume
+links:
+- label: See Demo
+  url: https://youtuberesume.emeraldzhu.com/
+  icon: globe
+- label: See Repository
+  url: https://github.com/EmeraldZhu/youtube-resume
+  icon: link
 ---
 
 ### So What is YouTube Resume? 

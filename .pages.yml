@@ -1,0 +1,133 @@
+# Pages CMS config: https://pagescms.org/docs/configuration/
+# Blog posts and projects share the same fields (schema in src/content/config.ts).
+
+media:
+  input: src/assets/images
+  output: /images
+  categories: [image]
+  rename: safe
+
+components:
+  links:
+    label: Links
+    type: object
+    description: Buttons under the summary, e.g. "See Demo", "See Repository".
+    list:
+      collapsible:
+        summary: "{label}"
+    fields:
+      - name: label
+        label: Label
+        type: string
+        required: true
+      - name: url
+        label: URL
+        type: string
+        required: true
+      - name: icon
+        label: Icon
+        type: select
+        default: link
+        options:
+          values:
+            - name: link
+              label: Link
+            - name: globe
+              label: Globe
+
+content:
+  - name: blog
+    label: Blog
+    type: collection
+    path: src/content/blog
+    format: yaml-frontmatter
+    filename:
+      template: "{title}.md"
+      field: create
+    view:
+      fields: [title, date, draft]
+      primary: title
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: summary
+        label: Summary
+        type: text
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd
+      - name: draft
+        label: Draft
+        type: boolean
+        default: true
+        description: Drafts are hidden from the site. Turn off to publish.
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: links
+        component: links
+      - name: body
+        label: Content
+        type: rich-text
+        options:
+          format: markdown
+          path: src/assets/images/blog
+
+  - name: projects
+    label: Projects
+    type: collection
+    path: src/content/projects
+    format: yaml-frontmatter
+    filename:
+      template: "{title}.md"
+      field: create
+    view:
+      fields: [title, date, draft]
+      primary: title
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: summary
+        label: Summary
+        type: text
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd
+      - name: draft
+        label: Draft
+        type: boolean
+        default: true
+        description: Drafts are hidden from the site. Turn off to publish.
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: links
+        component: links
+      - name: body
+        label: Content
+        type: rich-text
+        options:
+          format: markdown
+          path: src/assets/images/projects

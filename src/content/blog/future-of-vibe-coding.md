@@ -1,7 +1,7 @@
 ---
 title: "The Future of Vibe Coding"
 summary: "Vibe coding has a catch. Hear me out"
-date: "Mar 23 2026"
+date: 2026-03-23
 draft: false
 tags:
 - SaaS

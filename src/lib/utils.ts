@@ -9,7 +9,9 @@ export function formatDate(date: Date) {
   return Intl.DateTimeFormat("en-US", {
     month: "short",
     day: "2-digit",
-    year: "numeric"
+    year: "numeric",
+    // Content dates are plain YYYY-MM-DD (midnight UTC); don't shift them to the viewer's timezone
+    timeZone: "UTC",
   }).format(date)
 }
 

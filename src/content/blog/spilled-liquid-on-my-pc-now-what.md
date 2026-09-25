@@ -1,7 +1,7 @@
 ---
 title: "Someone spilled liquid on my PC... now what?"
 summary: "A story of how my PC still worked after having one drink too many - pun intended."
-date: "Jan 28 2026"
+date: 2026-01-28
 draft: false
 tags:
 - Miracle PC Build

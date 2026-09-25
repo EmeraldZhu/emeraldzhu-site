@@ -1,7 +1,7 @@
 ---
 title: "Is Importing Always Cheaper?"
 summary: "Local resellers mark up prices ridiculously. So you decide to import..."
-date: "Dec 15 2025"
+date: 2025-12-15
 draft: false
 tags:
 - Importing

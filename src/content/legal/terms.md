@@ -1,6 +1,6 @@
 ---
 title: "Terms of Use"
-date: "01/29/2026"
+date: 2026-01-29
 ---
 
 Please read these Terms of Use ("Terms", "Terms of Use") carefully before using the [https://emeraldzhu.com] website (the "Service") operated by Emerald Zhu ("us", "we", or "our").

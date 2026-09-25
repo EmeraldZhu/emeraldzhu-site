@@ -1,7 +1,7 @@
 ---
 title: "Second Gaming PC Build"
 summary: "That's a bit of a white lie. Remember the PC that had one too many? Well, this is the reassembly."
-date: "Jan 29 2026"
+date: 2026-01-29
 draft: false
 tags:
 - Miracle PC Build
